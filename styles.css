@@ -1,0 +1,36 @@
+header {
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    max-width: 40%;
+    max-height: 40%;
+    height: auto;
+}
+
+ul {
+    list-style-type: square;
+    margin: 20px;
+    padding-left: 20px;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 3px;
+    text-align: left;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
